@@ -8,13 +8,11 @@ The goal of this project was to analyze requirements, plan the testing strategy,
 
 ## 📂 Project Documentation
 
-In this repository, you will find all the professional documents I created during the testing process:
+In this repository, you will find the professional documents I created during the testing process. Click on the links below to view them:
 
-* **[STP - Software Test Plan](./STP_OrangeHRM_Asaf_Zuriel.pdf)**: Defines the testing strategy, scope, resources, and schedule for the project.
-* **[STD - Software Test Description](./https://github.com/asafxz51/Manual-QA-Documentation/blob/main/OrangeHRM%20STD.pdf)**: Detailed test cases including steps, expected results, and priorities.
-* **[STR - Software Test Report](./STR_OrangeHRM_Asaf_Zuriel.pdf)**: A summary of the test execution results, including pass/fail statistics and final release recommendation.
-* **[Test Cases (Excel Version)](./Test%20Cases.xlsx)**: The raw data of the test scenarios for easy filtering and tracking.
-* **[Bug Reports](./Bug%20Reports.xlsx)**: A detailed log of all identified defects, including severity, priority, and steps to reproduce.
+* **[STP - Software Test Plan](./OrangeHRM%20STP.pdf)**: Defines the testing strategy, scope, resources, and schedule for the project.
+* **[STD - Software Test Description](./OrangeHRM%20STD.pdf)**: Detailed test cases including steps, expected results, and priorities.
+* **[STR - Software Test Report](./OrangeHRM%20STR.pdf)**: A summary of the test execution results, including pass/fail statistics and final release recommendation.
 
 ---
 
@@ -25,12 +23,11 @@ In this repository, you will find all the professional documents I created durin
 
 ---
 
-## 👤 About Me
-I am a highly motivated **QA Engineer** with a strong technical background in Full-Stack development and Automation. I have a deep understanding of the testing lifecycle and a passion for delivering high-quality software.
+## 📬 Contact Information
+I am currently looking for my first challenge in the QA world!
 
-* **Email:** asaf.zuriel1@gmail.com
 * **LinkedIn:** [linkedin.com/in/asaf-zuriel](https://www.linkedin.com/in/asaf-zuriel)
-* **Location:** Israel
+* **Email:** asaf.zuriel1@gmail.com
 
 ---
-*Feel free to explore the files and contact me for any questions!*# Manual-QA-Documentation
+*Feel free to explore the files and contact me for any questions!*
