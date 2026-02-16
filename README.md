@@ -25,17 +25,10 @@ In this repository, you will find all the professional documents I created durin
 
 ---
 
-## 🔄 From Manual to Automation
-This manual project served as the foundation for my **Automation Framework**. I took the core scenarios from the STD and automated them using Java & Selenium.
-
-🔗 **[View my Automation Project here](https://github.com/asafxz51/Automation-Final-Project)**
-
----
-
 ## 👤 About Me
 I am a highly motivated **QA Engineer** with a strong technical background in Full-Stack development and Automation. I have a deep understanding of the testing lifecycle and a passion for delivering high-quality software.
 
-* **Email:** asaf.zuriell@gmail.com
+* **Email:** asaf.zuriel1@gmail.com
 * **LinkedIn:** [linkedin.com/in/asaf-zuriel](https://www.linkedin.com/in/asaf-zuriel)
 * **Location:** Israel
 
