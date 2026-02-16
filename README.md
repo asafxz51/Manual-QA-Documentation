@@ -11,7 +11,7 @@ The goal of this project was to analyze requirements, plan the testing strategy,
 In this repository, you will find all the professional documents I created during the testing process:
 
 * **[STP - Software Test Plan](./STP_OrangeHRM_Asaf_Zuriel.pdf)**: Defines the testing strategy, scope, resources, and schedule for the project.
-* **[STD - Software Test Description](./STD_OrangeHRM_Asaf_Zuriel.pdf)**: Detailed test cases including steps, expected results, and priorities.
+* **[STD - Software Test Description](./https://github.com/asafxz51/Manual-QA-Documentation/blob/main/OrangeHRM%20STD.pdf)**: Detailed test cases including steps, expected results, and priorities.
 * **[STR - Software Test Report](./STR_OrangeHRM_Asaf_Zuriel.pdf)**: A summary of the test execution results, including pass/fail statistics and final release recommendation.
 * **[Test Cases (Excel Version)](./Test%20Cases.xlsx)**: The raw data of the test scenarios for easy filtering and tracking.
 * **[Bug Reports](./Bug%20Reports.xlsx)**: A detailed log of all identified defects, including severity, priority, and steps to reproduce.
